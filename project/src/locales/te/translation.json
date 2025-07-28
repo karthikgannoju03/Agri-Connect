@@ -1,0 +1,93 @@
+{
+  "auth": {
+    "login": "లాగిన్",
+    "register": "నమోదు",
+    "phoneNumber": "ఫోన్ నంబర్",
+    "enterOTP": "OTP ను నమోదు చేయండి",
+    "verify": "ధృవీకరించండి",
+    "sendOTP": "OTP పంపండి",
+    "resendOTP": "OTP ను మళ్ళీ పంపండి",
+    "createAccount": "ఖాతాను సృష్టించండి",
+    "alreadyHaveAccount": "ఇప్పటికే ఖాతా ఉందా?",
+    "dontHaveAccount": "ఖాతా లేదా?"
+  },
+  "nav": {
+    "dashboard": "డాష్‌బోర్డ్",
+    "weather": "వాతావరణం",
+    "marketPrices": "మార్కెట్ ధరలు",
+    "cropAdvisor": "పంట సలహాదారు",
+    "articles": "వ్యాసాలు",
+    "scanner": "స్కానర్",
+    "tools": "పనిముట్లు",
+    "tips": "చిట్కాలు",
+    "profile": "ప్రొఫైల్",
+    "logout": "లాగ్ అవుట్"
+  },
+  "dashboard": {
+    "welcome": "తిరిగి స్వాగతం",
+    "weatherSummary": "వాతావరణ సారాంశం",
+    "marketTrends": "మార్కెట్ ధోరణులు",
+    "recommendedCrops": "సిఫార్సు చేయబడిన పంటలు",
+    "latestArticles": "తాజా వ్యాసాలు",
+    "viewAll": "అన్నీ చూడండి"
+  },
+  "weather": {
+    "current": "ప్రస్తుత వాతావరణం",
+    "forecast": "ముందస్తు సూచన",
+    "temperature": "ఉష్ణోగ్రత",
+    "humidity": "తేమ",
+    "windSpeed": "గాలి వేగం",
+    "precipitation": "వర్షపాతం",
+    "today": "ఈరోజు",
+    "tomorrow": "రేపు",
+    "next7Days": "తదుపరి 7 రోజులు"
+  },
+  "marketPrices": {
+    "nearbyMarkets": "సమీప మార్కెట్లు",
+    "vegetablePrices": "కూరగాయల ధరలు",
+    "fruitPrices": "పండ్ల ధరలు",
+    "grainPrices": "ధాన్యాల ధరలు",
+    "priceHistory": "ధర చరిత్ర",
+    "market": "మార్కెట్",
+    "product": "ఉత్పత్తి",
+    "price": "ధర",
+    "unit": "యూనిట్",
+    "lastUpdated": "చివరిగా నవీకరించబడింది"
+  },
+  "cropAdvisor": {
+    "recommendCrop": "పంట సిఫార్సు",
+    "soilType": "నేల రకం",
+    "climate": "వాతావరణం",
+    "season": "ఋతువు",
+    "waterAvailability": "నీటి లభ్యత",
+    "startMonth": "ప్రారంభ నెల",
+    "endMonth": "ముగింపు నెల",
+    "results": "ఫలితాలు",
+    "suitability": "అనుకూలత",
+    "cropDetails": "పంట వివరాలు"
+  },
+  "scanner": {
+    "scanFertilizer": "ఎరువులను స్కాన్ చేయండి",
+    "takePhoto": "ఫోటో తీయండి",
+    "uploadImage": "చిత్రాన్ని అప్‌లోడ్ చేయండి",
+    "analyzing": "విశ్లేషిస్తోంది...",
+    "results": "ఫలితాలు",
+    "natural": "సహజ",
+    "chemical": "రసాయనిక",
+    "mixed": "మిశ్రమం",
+    "scanHistory": "స్కాన్ చరిత్ర"
+  },
+  "common": {
+    "loading": "లోడ్ అవుతోంది...",
+    "error": "లోపం సంభవించింది",
+    "retry": "మళ్ళీ ప్రయత్నించండి",
+    "save": "సేవ్ చేయండి",
+    "cancel": "రద్దు చేయండి",
+    "delete": "తొలగించండి",
+    "edit": "సవరించండి",
+    "search": "శోధించండి",
+    "filter": "ఫిల్టర్",
+    "sort": "క్రమబద్ధీకరించండి",
+    "noResults": "ఫలితాలు కనుగొనబడలేదు"
+  }
+}

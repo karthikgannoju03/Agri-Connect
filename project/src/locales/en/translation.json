@@ -1,0 +1,93 @@
+{
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "phoneNumber": "Phone Number",
+    "enterOTP": "Enter OTP",
+    "verify": "Verify",
+    "sendOTP": "Send OTP",
+    "resendOTP": "Resend OTP",
+    "createAccount": "Create Account",
+    "alreadyHaveAccount": "Already have an account?",
+    "dontHaveAccount": "Don't have an account?"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "weather": "Weather",
+    "marketPrices": "Market Prices",
+    "cropAdvisor": "Crop Advisor",
+    "articles": "Articles",
+    "scanner": "Scanner",
+    "tools": "Tools",
+    "tips": "Tips",
+    "profile": "Profile",
+    "logout": "Logout"
+  },
+  "dashboard": {
+    "welcome": "Welcome back",
+    "weatherSummary": "Weather Summary",
+    "marketTrends": "Market Trends",
+    "recommendedCrops": "Recommended Crops",
+    "latestArticles": "Latest Articles",
+    "viewAll": "View All"
+  },
+  "weather": {
+    "current": "Current Weather",
+    "forecast": "Forecast",
+    "temperature": "Temperature",
+    "humidity": "Humidity",
+    "windSpeed": "Wind Speed",
+    "precipitation": "Precipitation",
+    "today": "Today",
+    "tomorrow": "Tomorrow",
+    "next7Days": "Next 7 Days"
+  },
+  "marketPrices": {
+    "nearbyMarkets": "Nearby Markets",
+    "vegetablePrices": "Vegetable Prices",
+    "fruitPrices": "Fruit Prices",
+    "grainPrices": "Grain Prices",
+    "priceHistory": "Price History",
+    "market": "Market",
+    "product": "Product",
+    "price": "Price",
+    "unit": "Unit",
+    "lastUpdated": "Last Updated"
+  },
+  "cropAdvisor": {
+    "recommendCrop": "Recommend Crop",
+    "soilType": "Soil Type",
+    "climate": "Climate",
+    "season": "Season",
+    "waterAvailability": "Water Availability",
+    "startMonth": "Start Month",
+    "endMonth": "End Month",
+    "results": "Results",
+    "suitability": "Suitability",
+    "cropDetails": "Crop Details"
+  },
+  "scanner": {
+    "scanFertilizer": "Scan Fertilizer",
+    "takePhoto": "Take Photo",
+    "uploadImage": "Upload Image",
+    "analyzing": "Analyzing...",
+    "results": "Results",
+    "natural": "Natural",
+    "chemical": "Chemical",
+    "mixed": "Mixed",
+    "scanHistory": "Scan History"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "noResults": "No results found"
+  }
+}
